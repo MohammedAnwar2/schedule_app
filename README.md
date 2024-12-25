@@ -7,9 +7,13 @@ Whether you're looking to manage your tasks, set reminders, or organize your dai
 ---
 
 ## **🌟 Features 🌟**
+### 1. **Splash Screen** 🌟
+![Splash](assets/screenshots/Splash.png) 
 
-### 1. **Splash Screen & Onboarding 🎉📲**
-![Splash Screen & Onboarding](assets/screenshots/onboarding.png)
+Experience a smooth and welcoming entry into the Schedule App with our beautiful splash screen!
+---
+### 1. **Onboarding 🎉📲**
+![Onboarding](assets/screenshots/onboarding.png)
 
 Start your journey with **Schedule App** with an engaging and informative onboarding experience! 🎈📝 Our onboarding screens will guide you through the app, highlighting key features and setting you up for a smooth start.
 
