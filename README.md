@@ -1,7 +1,3 @@
-Here's the updated documentation for the **Schedule App** with the requested features:
-
----
-
 # **Schedule App** 🗓️✨
 
 Welcome to **Schedule App**! 🌟📅 This app is here to optimize your time management experience with an array of powerful features designed to make scheduling, organizing, and tracking your tasks more efficient than ever before! ✨🚀
