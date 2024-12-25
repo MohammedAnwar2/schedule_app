@@ -92,7 +92,3 @@ If you have any questions or need assistance, or if you'd like to discuss sugges
 ### **🌟 Thank you for visiting! 🌟**
 
 We look forward to your feedback and suggestions to continue improving your time management experience with **Schedule App**! ✨💬
-
---- 
-
-This version of the **Schedule App** documentation incorporates your new feature list and maintains the same structure with emojis and images!
