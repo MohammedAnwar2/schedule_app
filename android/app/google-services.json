@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727614808388",
+    "project_id": "schedul-app-8d0ca",
+    "storage_bucket": "schedul-app-8d0ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727614808388:android:1e8e68400f054495067711",
+        "android_client_info": {
+          "package_name": "com.ruknit.schedule_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaz2x6-7dAOTUf0HJ1bDeWH_l9HZF2Pkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
